@@ -1,2 +1,5 @@
 # KILLTWG-app
- KILLTWG app version 
+
+KILLTWG app version 
+
+還沒做好QQ
